@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "blog"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "بىلوگ"
+  text: "是一个测试网站"
+  tagline: 会发布学习过的内容哈哈
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: vue
+    details: 会的不多，就是会一点点
+  - title: java
+    details: 也就会一些吧，好多东西都不会呢
+  - title: react
+    details: 有学react的计划，后期会进行学习哈哈哈
 ---
 
